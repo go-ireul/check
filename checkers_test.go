@@ -2,7 +2,7 @@ package check_test
 
 import (
 	"errors"
-	"gopkg.in/check.v1"
+	"ireul.com/check"
 	"reflect"
 	"runtime"
 )

@@ -8,7 +8,7 @@ package check_test
 
 import (
 	"fmt"
-	"gopkg.in/check.v1"
+	"ireul.com/check"
 	"log"
 	"os"
 	"regexp"

@@ -3,7 +3,7 @@
 package check_test
 
 import (
-	. "gopkg.in/check.v1"
+	. "ireul.com/check"
 )
 
 // -----------------------------------------------------------------------
